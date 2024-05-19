@@ -27,7 +27,7 @@
 ### Algorithm Used
 
     Convolution Neural Network
-###3333333=-0984321`321 Dataset Information
+### Dataset Information
 The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed by the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
 
 The data set contains the following diseases:
@@ -40,7 +40,7 @@ The data set contains the following diseases:
     * Seborrheic keratosis
     * Squamous cell carcinoma
     * Vascular lesion
-- Steps Involved
+### Steps Involved
     * Data Loading
     * Baseline Model Building
     * Training the Model and testing the model
@@ -50,7 +50,7 @@ The data set contains the following diseases:
     * Building the final model
     * Training the final model and testing the model
     * Verifying the model
-- Results
+### Results
     - Baseline Model
         Accuracy and Loss charts for the baseline model
         
@@ -58,30 +58,20 @@ The data set contains the following diseases:
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+As the accuracy of the model increases, the loss decreases. The final model has training accuracy of 87% and training loss of 0.3; validation accuracy of 83% and validation loss of 0.5. The model is able to predict the class of the lesion with a high accuracy. Augmenting the data and countering class imbalance helped in improving the accuracy of the model
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Google Colab
+- tensorFlow v2.11.0
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@Qsac] - feel free to contact me!
 
 
 <!-- Optional -->

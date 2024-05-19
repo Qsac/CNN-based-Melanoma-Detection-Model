@@ -27,36 +27,37 @@
 ### Algorithm Used
     Convolution Neural Network
     - Model Architecture:
-    ![Model Visualize](https://github.com/Qsac/CNN-based-Melanoma-Detection-Model/Model Visualize.png")
+    ![Model_Visualize](https://github.com/Qsac/CNN-based-Melanoma-Detection-Model/Model_Visualize.png")
 
     
 ### Dataset Information
 The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed by the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
 
 The data set contains the following diseases:
-    * Actinic keratosis
-    * Basal cell carcinoma
-    * Dermatofibroma
-    * Melanoma
-    * Nevus
-    * Pigmented benign keratosis
-    * Seborrheic keratosis
-    * Squamous cell carcinoma
-    * Vascular lesion
+* Actinic keratosis
+* Basal cell carcinoma
+* Dermatofibroma
+* Melanoma
+* Nevus
+* Pigmented benign keratosis
+* Seborrheic keratosis
+* Squamous cell carcinoma
+* Vascular lesion
 ### Steps Involved
-    * Data Loading
-    * Baseline Model Building
-    * Training the Model and testing the model
-    * Building an augmented model
-    * Training the augmented model and testing the model
-    * Countering Class Imbalance with augmentor
-    * Building the final model
-    * Training the final model and testing the model
-    * Verifying the model
+* Data Loading
+* Baseline Model Building
+* Training the Model and testing the model
+* Building an augmented model
+* Training the augmented model and testing the model
+* Countering Class Imbalance with augmentor
+* Building the final model
+* Training the final model and testing the model
+* Verifying the model
+
 ### Results
     - Final Model
        Accuracy and Loss charts for the final model
-       ![Model accuracy   Loss](https://github.com/Qsac/CNN-based-Melanoma-Detection-Model/assets/Model accuracy & Loss.png)
+       ![Model_accuracy_Loss](https://github.com/Qsac/CNN-based-Melanoma-Detection-Model/assets/Model_accuracy_Loss.png)
  
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->

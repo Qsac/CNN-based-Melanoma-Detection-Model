@@ -26,7 +26,7 @@
 ## General Information
 ### Algorithm Used
     Convolution Neural Network
-    * Model Architecture:
+    - Model Architecture:
     ![Model Visualize](https://github.com/Qsac/CNN-based-Melanoma-Detection-Model/assets/109352499/959a3f85-e5a5-4960-89a6-bd5877a2baab)
 
     
@@ -54,8 +54,8 @@ The data set contains the following diseases:
     * Training the final model and testing the model
     * Verifying the model
 ### Results
-    * Final Model
-Accuracy and Loss charts for the final model
+    - Final Model
+       Accuracy and Loss charts for the final model
        ![Model accuracy   Loss](https://github.com/Qsac/CNN-based-Melanoma-Detection-Model/assets/109352499/872f6e95-00ea-4d7b-99d8-31aef5054ad1)
  
 

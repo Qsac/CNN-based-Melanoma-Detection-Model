@@ -16,10 +16,10 @@
         * Baseline Model
         * Augmented Model
         * Final Model
-* Conclusion
-* Technologies Used
-* Contact
-* License
+ * Conclusion
+ * Technologies Used
+ * Contact
+ * License
 
 <!-- You can include any other section that is pertinent to your problem -->
 

@@ -25,8 +25,11 @@
 
 ## General Information
 ### Algorithm Used
-
     Convolution Neural Network
+    * Model Architecture:
+    ![Model Visualize](https://github.com/Qsac/CNN-based-Melanoma-Detection-Model/assets/109352499/959a3f85-e5a5-4960-89a6-bd5877a2baab)
+
+    
 ### Dataset Information
 The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed by the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
 
@@ -51,9 +54,10 @@ The data set contains the following diseases:
     * Training the final model and testing the model
     * Verifying the model
 ### Results
-    - Baseline Model
-        Accuracy and Loss charts for the baseline model
-        
+    * Final Model
+Accuracy and Loss charts for the final model
+       ![Model accuracy   Loss](https://github.com/Qsac/CNN-based-Melanoma-Detection-Model/assets/109352499/872f6e95-00ea-4d7b-99d8-31aef5054ad1)
+ 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 

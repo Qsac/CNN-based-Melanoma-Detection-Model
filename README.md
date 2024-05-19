@@ -1,23 +1,59 @@
 # CNN based Melanoma Detection Model
  CNN based model which can accurately detect melanoma
 
-# Project Name
-> Outline a brief description of your project.
+# CNN Based Model To detect Melenoma
+> This project uses a custom CNN to detect melanoma in images of skin lesions among 9 classes. The Gradio library is used to create a web app for the model prediction. The model predicts with an 87% accuracy.
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* Melanoma-Detection-using-using-custom-cnn
+    * Table of Contents
+    * General Information
+        * Algorithms Used
+        * Dataset Information
+    * Steps Involved
+    * Results
+        * Baseline Model
+        * Augmented Model
+        * Final Model
+* Conclusion
+* Technologies Used
+* Contact
+* License
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Algorithm Used
+
+    Convolution Neural Network
+- Dataset Information
+The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed by the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
+
+The data set contains the following diseases:
+    * Actinic keratosis
+    * Basal cell carcinoma
+    * Dermatofibroma
+    * Melanoma
+    * Nevus
+    * Pigmented benign keratosis
+    * Seborrheic keratosis
+    * Squamous cell carcinoma
+    * Vascular lesion
+- Steps Involved
+    * Data Loading
+    * Baseline Model Building
+    * Training the Model and testing the model
+    * Building an augmented model
+    * Training the augmented model and testing the model
+    * Countering Class Imbalance with augmentor
+    * Building the final model
+    * Training the final model and testing the model
+    * Verifying the model
+- Results
+    - Baseline Model
+        Accuracy and Loss charts for the baseline model
+        
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 

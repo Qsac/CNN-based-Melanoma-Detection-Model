@@ -26,9 +26,9 @@
 ## General Information
 ### Algorithm Used
 Convolution Neural Network
-- Model Architecture:
+- Final Model Architecture:
 
- ![Model_Visualize](Model_Visualize.png)
+ ![Final Architecture](Final Architecture.png)
 
     
 ### Dataset Information
@@ -56,16 +56,22 @@ The data set contains the following diseases:
 * Verifying the model
 
 ### Results
+- Baseline Model
+   Accuracy and Loss charts for the Base model
+  ![Baseline Model](Baseline Model.png)
+- Augmented Model
+   Accuracy and Loss charts for the augmented model
+  ![Augmented Model](Augmented Model.png)
 - Final Model
        Accuracy and Loss charts for the final model
-       ![Model_accuracy_Loss](Model_accuracy_Loss.png)
+       ![Final Model](Final Model.png)
 
  
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-As the accuracy of the model increases, the loss decreases. The final model has training accuracy of 87% and training loss of 0.3; validation accuracy of 83% and validation loss of 0.5. The model is able to predict the class of the lesion with a high accuracy. Augmenting the data and countering class imbalance helped in improving the accuracy of the model
+As the accuracy of the model increases, the loss decreases. The final model has validation accuracy of 88% and validation loss of 0.3. The model is able to predict the class of the lesion with a high accuracy. Augmenting the data and countering class imbalance helped in improving the accuracy of the model
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
